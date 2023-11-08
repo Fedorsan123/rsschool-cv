@@ -1,5 +1,5 @@
 # Tolochko Fedor
-![Аватар](https://github.com/Fedorsan123/desktop-tutorial_Homework/blob/main/ava.jpg?raw=true)
+![](https://sun5-8.userapi.com/impg/-50ufW6k5WPSk_VCD189Jpg1qak2B5g01qdIsA/U-ip5Kwd4wo.jpg?size=956x1278&quality=95&sign=f0507293277a8f87d6b000f17a323888&type=album)
 ### _My contact_
 - fedor2006san@gmail.com
 - +7-924-113-16-11
@@ -12,14 +12,16 @@ I'm 17 years old and I aspire to become a FullStack developer. I’ve been study
 ### _Skills_
 | Programming languages |Markup language and others|
 | :-----------: | :-----------: |
-| JS (basic lvl)|HTML5|
-| Phyton (basic lvl)|CSS3|
-| TypeScript (basic lvl)|Adaptive layout|
+| JS (basic lvl)     |HTML5|
+| Phyton (basic lvl)     |CSS3|
+| TypeScript (basic lvl)     |Adaptive layout|
 
 
 ### _Example_
 ##### "Abundant Numbers"
+
 ---
+
 ```JS
 let arr = [];
     let AbundArr =[];
@@ -44,7 +46,7 @@ let arr = [];
  
 This is my solution to the "Abundant Numbers" problem from 6kyu, although I don’t understand why they need to display numbers in the format [[a],[b]], and not just [a,b], well, never mind
  
- ### _Experience_
+### _Experience_
  I haven’t had any work experience yet, so I have nothing to brag about 
 
 ### _Education_
