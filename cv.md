@@ -3,7 +3,7 @@
 ### _My contact_
 - fedor2006san@gmail.com
 - +7-924-113-16-11
-- @Fedorsan123 
+- @Fedorsan123 (Discord)
 
 ### _About Me_
 
