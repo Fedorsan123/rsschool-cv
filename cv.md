@@ -38,7 +38,7 @@ let arr = [];
   let b = AbundArr.at(-1);
   let res = [a,b-a];
   return res; 
-} Abundant(100); 
+} Abundant(19); 
 ```
 ---
  
